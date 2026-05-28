@@ -1,8 +1,7 @@
-# Snapchat-Political-Ads-Data-Analysis-Project
 
-# 📊 Snapchat Political Ad Engagement — Predictive Modeling & Algorithmic Fairness Analysis
+# Snapchat Political Ad Engagement — Predictive Modeling & Algorithmic Fairness Analysis
 
-*Python · Pandas · Scikit-learn · Logistic Regression · Permutation Testing · pytz · Matplotlib · Seaborn*
+*Python · Pandas · Scikit-learn · Logistic Regression · Permutation Testing · Matplotlib · Seaborn*
 
 ---
 
